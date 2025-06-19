@@ -1,5 +1,4 @@
-# Retos-Modulo-2-Curso-Java-Tecnolochicas
-# 🚀 Retos Módulo 1 Java Básico – Tecnolochicas 
+# 🚀 Retos Módulo 2 Java Intermedio Tecnolochicas
 
 Hola soy **Montse** y este es mi repositorio de los **7 retos** realizados en el **Módulo 2** del curso **Tecnolochicas de Java**.
 
