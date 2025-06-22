@@ -1,4 +1,4 @@
-# 📦 Reto 1 S5: Gestión reactiva de sistemas críticos en Meridian Prime
+# 🧬 Reto 1 S5: Gestión reactiva de sistemas críticos en Meridian Prime
 
 ### 🎯 Objetivo general de la sesión
 ⚒️ Comprender los fundamentos de la programación reactiva en Java, conocer las diferencias con el manejo tradicional de streams, e implementar flujos reactivos utilizando Project Reactor o RxJava, abordando conceptos clave como Mono, Flux y control de backpressure.
